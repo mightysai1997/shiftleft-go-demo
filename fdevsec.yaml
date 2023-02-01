@@ -1,0 +1,12 @@
+on: v1
+
+id:
+  org: d88095f3-f941-4166-830c-70be549e4c0e
+  app: 2410b878-7acb-4559-a1bb-9b1ca61499e0
+
+
+scanners:
+  - sast
+languages:
+  - c
+  - c++
